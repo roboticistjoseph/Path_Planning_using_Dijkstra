@@ -1,6 +1,8 @@
 # Path_Planning_using_Dijkstra
 Implementation of Dijkstra Algorithm for a Point Robot to Plan Path in a Obstacle Space
 
+Video Output: https://drive.google.com/drive/folders/1oWu-HXT4fMGw0E1PynYHpjSkAewkp16J?usp=sharing
+
 Code:
 - Code consists of: 'Generating Map and it's Obstacles', 'Movement in 8 Directions', 'Using Search Algorithm and Back Tracking' and 'Visualizing the Tracked Path'
 - The Search Algorithm used here is ' Dijkstra Algorithm' to reach end goal and obtain the path.
