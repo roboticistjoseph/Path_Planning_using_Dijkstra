@@ -8,15 +8,15 @@ Code:
 
 Dependencies:
 - python 3.9 (works for any python 3 version)
-- Python running IDE. (I used Spyder IDE to program the Code and Execute the Code)
+- Python running IDE. (I used Visual Studio IDE to program the Code and Execute the Code)
 - Libraries: numpy, matplotlib.pyplot, heapq, time
 
-P.S. The visualization of the plotting is not smooth in spyder. Use Visual Studio etc.
+P.S. The visualization of the Path Plot is improper in Spyder IDE. Use Visual Studio or any others.
 
 Instructions to Run the Code:
 
 To get the Output (without Visualization)
-- Open the 'Dijkstra-pathplanning-Joseph-Katakam.py' file in any IDE. (I used Spyder)
+- Open the 'Dijkstra-pathplanning-Joseph-Katakam.py' file in any IDE. (I used Visual Studio)
 - Run the Program
 - In the Console, the program asks for the x and y coordinates of Start and Goal Node. Enter as prompted. Ex: Start: 50, 50; Goal: 150, 150
 - The Output Plot with planned Path should be Visible.
