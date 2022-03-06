@@ -1,19 +1,6 @@
 # Path_Planning_using_Dijkstra
 Implementation of Dijkstra Algorithm for a Point Robot to Plan Path in a Obstacle Space
 
------------------------------------------------------------------------------------------------------------------
-ENPM 661- Planning for Autonomous Robots;
------------------------------------------------------------------------------------------------------------------
-
-Name: Joseph Pranadeer Reddy Katakam
-UID: 117517958
-
-------------------------------------------------------------------------------------------------------------------
-
-Project 2: Implementation of Dijkstra Algorithm for a Point Robot
-
-GitHub Link: https://github.com/roboticistjoseph/Path_Planning_using_Dijkstra
-
 Code:
 - Code consists of: 'Generating Map and it's Obstacles', 'Movement in 8 Directions', 'Using Search Algorithm and Back Tracking' and 'Visualizing the Tracked Path'
 - The Search Algorithm used here is ' Dijkstra Algorithm' to reach end goal and obtain the path.
